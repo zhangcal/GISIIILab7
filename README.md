@@ -23,5 +23,6 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(CZGISIIILAB7FINAL)
 ## basic example code
+QuickMap(spData::world, "red")
 ```
 
