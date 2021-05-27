@@ -1,7 +1,7 @@
 hi
 ================
 
-![Trial text](./GIS3ExploratoryPics/GIS3DistToPoshMap.png) \#\# R
+![Trial text](GIS3DistToPoshMap.png) \#\# R
 Markdown
 
 This is an R Markdown document that generates a github readme.md file.
